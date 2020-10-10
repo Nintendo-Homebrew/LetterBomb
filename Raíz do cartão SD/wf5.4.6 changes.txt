@@ -1,0 +1,1 @@
+- fixed game setting for select IOS. (broken in 5.4.5)
